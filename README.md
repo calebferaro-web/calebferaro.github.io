@@ -13,5 +13,5 @@ Examples of how to use the project.
 ### Authors
 
 - Caleb Feraro
-- Victor 
+- Victor Syrotyuk
   
