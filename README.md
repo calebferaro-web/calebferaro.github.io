@@ -1,4 +1,4 @@
-# Project Title
+# CV Help
 
 A short description of what this project does and who it's for
 
@@ -12,5 +12,6 @@ Examples of how to use the project.
 
 ### Authors
 
-- Your names
+- Caleb Feraro
+- Victor 
   
