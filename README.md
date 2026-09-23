@@ -13,5 +13,4 @@ Examples of how to use the project.
 ### Authors
 
 - Caleb Feraro
-- Victor Syrotyuk
-  
+- Henry Julio  
