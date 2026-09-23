@@ -14,3 +14,4 @@ Examples of how to use the project.
 
 - Caleb Feraro
 - Henry Julio  
+   Victor
