@@ -1,2 +1,1 @@
-#Feature-1 by Preetinder
-#This feature1 is pre-approved
+#Feature1: Main Menu by Preetinder
