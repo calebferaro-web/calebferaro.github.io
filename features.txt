@@ -1,11 +1,11 @@
-1. Preetinder Feature:
+1. Preetinder Features:
 - Main Screen
 - Input
 
-2. Mukund Feature:
+2. Mukund Features:
 - Unit Conversion
 - Final Output
 
-3. Chambers Feature:
+3. Chambers Features:
 - Switching Conversions
 - Looping Input and Breaking
