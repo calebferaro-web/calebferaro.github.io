@@ -1,1 +1,1 @@
-
+## Main Menu: The main menu will allow to users to go through each feature of the project by typing a number.
